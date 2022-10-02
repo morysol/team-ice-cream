@@ -1,12 +1,12 @@
 {
-  "name": "parcel-project-template",
+  "name": "morysol",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dimak911.github.io/team-project-1",
+  "homepage": "https://morysol.github.io/team-ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-1/"
+    "build": "parcel build src/*.html --public-url /team-ice-cream/"
   },
   "repository": {
     "type": "git",
